@@ -21,7 +21,7 @@ Tu riešime 5 hlavných obchodných otázok:
 -  U niektorých produktov je inverzný vzťah medzi cenou a objednaným množstvom. Napríklad, AA batérie a AAA batérie majú nízke ceny a vysoké objednané množstvá, zatiaľ čo MacBook Pro laptop má vysokú cenu, ale relatívne nižšie objednané množstvo.
 Niektoré produkty, ako napríklad USB-C nabíjací kábel, dosahujú rovnováhu medzi cenou a objednaným množstvom, čo môže naznačovať, že sú vnímané ako produkty s dobrou hodnotou.
 
-![image](https://github.com/user-attachments/assets/eeb42093-6232-45cd-8574-e9609607f833)
+
 
 
 
